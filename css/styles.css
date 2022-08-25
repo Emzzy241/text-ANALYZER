@@ -1,0 +1,13 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: rgb(124, 172, 13);
+}
+
+p{
+    margin-top: 1.5rem;
+}
