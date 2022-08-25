@@ -239,3 +239,6 @@ function noInputtedWord() {
       word = $("#word").val();
     });
   });
+
+
+//   Finally done with both userInterface logic and business logic of application
